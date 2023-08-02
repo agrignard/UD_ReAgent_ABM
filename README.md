@@ -1,6 +1,7 @@
 # UD_ReAgent_ABM
-Agent Based Simulation framework for Urban Data Services and Vizualisation.
+Reactive Agent-based Tangible simulation for decision making in urban studies
 
+The EU-funded ReAgent project focuses on co-constructed pluridisciplinary approaches of modelling and participatory simulation to improve decision making and urban planning strategies. The project studies the impacts of urban policies using Agent Based-Models (ABM) to handle real-time visualization tasks applied both to data and simulation outputs. These models are then displayed on a physical 3D model of the city, called Tangible User Interface (TUI). ABM coupled with TUI represents a radically new decision support tool which can be used to explore and assess new urban planning strategies that meet citizens and stakeholders needs. The Marie Curie fellowship is carried out at Université Claude Bernard Lyon 1 (UCBL), in collaboration with LABEX IMU and Lyon Urban School. 
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie
 Sklodowska-Curie grant agreement No 101028036
