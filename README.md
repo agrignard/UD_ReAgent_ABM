@@ -1,6 +1,10 @@
 # UD_ReAgent_ABM
 Agent Based Simulation framework for Urban Data Services and Vizualisation.
 
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie
+Sklodowska-Curie grant agreement No 101028036
+
 See the [wiki](https://github.com/VCityTeam/UD_ReAgent_ABM/wiki) for more information about this project
 
 Contact: [Arnaud Grignard](https://github.com/agrignard) 
